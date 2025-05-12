@@ -1,0 +1,7 @@
+mcro m1
+
+nain: jmp k
+k: stop
+endmcro
+
+m1
